@@ -1,3 +1,6 @@
+This repository includes the assignment codes of Udacity data science nano degree program
+
+
 ## Project Motivation
 
 As we all know the impact made my Covid19 in the world.Here we are trying analyse the open covid dataset 
@@ -44,11 +47,8 @@ The data for the project  is taken from   [Kaggle data set reference](https://ww
 
 Thanks to Ritchie Vink for giving a nice documentation for [ARIMA model ](https://www.ritchievink.com/blog/2018/09/26/algorithm-breakdown-ar-ma-and-arima-models/)
 
-This repository includes the assignment codes of Udacity data science nano degree program
 
-Please download file from location and extract and keep it in the same directory oof code running
 
-[Kaggle data set reference](https://www.kaggle.com/arashnic/covid19-case-surveillance-public-use-dataset)
 
 
 Please find the medium link for reference 
