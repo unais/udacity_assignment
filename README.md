@@ -1,4 +1,4 @@
-##Project Motivation
+## Project Motivation
 
 As we all know the impact made my Covid19 in the world.Here we are trying analyse the open covid dataset 
 provided in Kaggle
@@ -7,10 +7,8 @@ provided in Kaggle
 
 This is a part of Udacity Datascience nano degree program
 
-##Requirements
 
-
-# Setup Instructions 
+## Setup Instructions 
 
 Please install the following main libraries to work with this project
 
@@ -28,7 +26,7 @@ Please install the following main libraries to work with this project
     six==1.15.0
     statsmodels==0.12.1
 
-##Files In The Repository
+## Files In The Repository
 
 1. `Udacity Assignment - Covid data analysis.ipynb`   : Udacity assignment question answers
 2. `Covid data analysis- Time Series Prediction - ARIMA.ipynb`   : Time series prediction for Covid for next month (work in progress)
@@ -40,7 +38,7 @@ Please download data from [Kaggle data set reference](https://www.kaggle.com/ara
 and  keep it in the same working directory
 
 
-#Acknowledgements
+## Acknowledgements
 
 The data for the project  is taken from   [Kaggle data set reference](https://www.kaggle.com/arashnic/covid19-case-surveillance-public-use-dataset)
 
