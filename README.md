@@ -10,6 +10,12 @@ provided in Kaggle
 
 This is a part of Udacity Datascience nano degree program
 
+We are analysying the following Questions
+
+ 1. Find the case distribution across genders , age group and Demographic
+ 2. Death rate is higher is which age group?
+ 3. Find the trend of covid across time
+
 
 ## Setup Instructions 
 
@@ -54,3 +60,9 @@ Thanks to Ritchie Vink for giving a nice documentation for [ARIMA model ](https:
 Please find the medium link for reference 
 
 https://tpunais.medium.com/insights-from-covid-19-case-surveillance-public-use-dataset-c896f7bdf9ff 
+
+
+## For Summary
+
+For Summary of analysis please look the [blog](https://tpunais.medium.com/insights-from-covid-19-case-surveillance-public-use-dataset-c896f7bdf9ff 
+)
